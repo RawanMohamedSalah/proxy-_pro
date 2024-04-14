@@ -1,0 +1,1 @@
+SELECT * FROM proxy_lib.books;
